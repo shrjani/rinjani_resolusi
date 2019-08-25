@@ -6,5 +6,7 @@ RENCANA JCD
  *hubungi bude
   ^minta nomor telefon bude 
 -Nyari Kosan
+ *nyari yang deket
 -Nyari kantor JCD
--Perkenalan dengan member baru
+ *Pesen Grab
+
