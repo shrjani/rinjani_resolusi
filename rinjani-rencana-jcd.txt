@@ -2,6 +2,7 @@ RENCANA JCD
 -Persiapan ke Yogja
  *nyari travel
   ^searching di internet
+  ^nyari harga yang murah
  *hubungi bude
   ^minta nomor telefon bude 
 -Nyari Kosan
