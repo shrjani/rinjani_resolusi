@@ -6,7 +6,9 @@ RENCANA JCD
  *hubungi bude
   ^minta nomor telefon bude 
 -Nyari Kosan
+ *Harganya yang murah
 -Nyari kantor JCD
  *Pesen gojek
  *Isi saldo gojek
 -Perkenalan dengan member baru
+-Meminta kontak member lain
