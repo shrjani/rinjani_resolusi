@@ -7,6 +7,9 @@ RENCANA JCD
   ^minta nomor telefon bude 
 -Nyari Kosan
  *nyari yang deket
+ *nyari yang murah
 -Nyari kantor JCD
- *Pesen Grab
-
+ *Pesen gojek
+ *Isi saldo gojek
+-Perkenalan dengan member baru
+-Meminta kontak member lain
